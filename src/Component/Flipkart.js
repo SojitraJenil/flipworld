@@ -84,7 +84,7 @@ function FlipKart(props) {
       <div className="d-flex" style={{ width: "100%" }}>
         <div className="border-gray border-5 border" style={{ width: "18%" }}>
           <div>
-            <h3 className="text-center">Filters</h3>
+            <h3 className="text-center">Flip-world</h3>
             <Accordion defaultActiveKey="0" flush>
               <Accordion.Item eventKey="0" alwaysOpen>
                 <Accordion.Header>CATEGORIES</Accordion.Header>
